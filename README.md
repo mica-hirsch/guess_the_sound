@@ -1,5 +1,5 @@
 # guess_the_sound
-This is a game where you have to listen to a sound and guess what it represents. It can be related to brands, movies, series, etc.
+This is a game where you have to listen to a sound and guess what it represents. It can be related to brands, movies, series, etc. You can play the game directly in the colab notebook or download the python code.
 
 Recommended: 
 
